@@ -1,2 +1,2 @@
-# githubpub
+# pub repository
 GitHub Public Repository
